@@ -1,0 +1,26 @@
+.center {
+    text-align: center;
+}
+
+li {
+    list-style-position: inside;
+}
+
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+
+h3{
+    text-align: center;
+    color: #6C4AB6;
+}
+
+h2 {
+    color: #6C4AB6;
+}
+
+a {
+    color: #A3C7D6;
+    font-size: 14px;
+}
